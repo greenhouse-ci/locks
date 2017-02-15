@@ -1,1 +1,1 @@
-Repo used to lock deploy/run-wats on ketchup concourse
+Locks for CF Greenhouse environments
